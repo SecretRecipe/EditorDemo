@@ -1,2 +1,6 @@
 # EditorDemo
-demo of an excerpt of a room editor using babylon.js
+small proof of concept for a room editor build in babylon.js.
+
+still in setup phase; testing gitHub Pages features
+
+[view Demo](https://99-knots.github.io/EditorDemo/)
