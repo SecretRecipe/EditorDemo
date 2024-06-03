@@ -1,5 +1,5 @@
 # EditorDemo
-small proof of concept for a room editor build in babylon.js.
+small proof of concept for a exhibition editor build with babylon.js and react.js.
 
 still in setup phase; testing gitHub Pages features
 
