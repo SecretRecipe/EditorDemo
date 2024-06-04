@@ -1,5 +1,5 @@
 # EditorDemo
-small proof of concept for a exhibition editor build with babylon.js and react.js.
+small proof of concept for an exhibition editor build with babylon.js and react.js.
 
 still in setup phase; testing gitHub Pages features
 
